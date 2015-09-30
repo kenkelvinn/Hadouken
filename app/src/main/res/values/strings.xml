@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hadouken</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_info">Info</string>
+    <string name="Move_List">Move List</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_moves">Moves</string>
+    <string name="text">Street Fighter commonly abbreviated as SF, is a fighting game franchise by Capcom.</string>
+
+</resources>
